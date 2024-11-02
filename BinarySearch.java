@@ -1,7 +1,6 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+Just a normal binary search that I've been using; avoids integer overflow by
+dividing the sum (lo + hi)/2 ===>>> lo + (hi - lo)/2
  **************************************************************************** */
 
 
