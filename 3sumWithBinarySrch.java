@@ -3,7 +3,7 @@
  *  Coursera User ID:  123456
  *  Last modified:     October 16, 1842
  **************************************************************************** */
-
+// I'm using indexing from the last so that the numbers are in descending order.
 
 public class Sum2 {
 
