@@ -3,12 +3,8 @@
  *  Coursera User ID:  123456
  *  Last modified:     October 16, 1842
  **************************************************************************** */
+//WARNING: The following code is not fully functional yet as I have to make changes to it still.
 
-/* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
- **************************************************************************** */
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
